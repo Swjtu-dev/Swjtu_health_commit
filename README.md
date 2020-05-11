@@ -1,13 +1,12 @@
-# Swjtu_health_commit
-Swjtu 每日健康签到
+# 西南交通大学 每日健康签到脚本
 
 基于python3 
 
 需配合charles等抓包软件食用
 
 MacOS及Linux请使用_linux后缀版
-W
-indiws请使用无后缀版
+
+Windiws请使用无后缀版
 
 
 ## 抓包教程（charles）
